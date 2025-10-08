@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is NIZAR ILAHI. I am a university teacher and Full Stack Engineer with 10+ years of experience building scalable web applications. I specialize in modern JavaScript/TypeScript ecosystems (React, Next.js, Node.js, Nest.js) and Java/Spring Boot, with a strong focus on clean code, performance optimization, and comprehensive testing.</p>
+<p align="left">My name is <b>NIZAR ILAHI</b>. I am a university teacher and Full Stack Engineer with 10+ years of experience building scalable web applications. I specialize in modern JavaScript/TypeScript ecosystems (React, Next.js, Node.js, Nest.js) and Java/Spring Boot, with a strong focus on clean code, performance optimization, and comprehensive testing.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">What I Do:<br><br>🎨 Craft responsive, user-centric interfaces with React, TypeScript, and modern CSS<br>⚙️ Build robust RESTful APIs with Node.js/Express and Spring Boot<br>🗄️ Design efficient database solutions (PostgreSQL, MongoDB, MySQL)<br>🧪 Implement thorough testing strategies (Jest, Vitest, JUnit)<br>🚀 Deploy and orchestrate applications with Docker and Kubernetes<br><br>Background:<br><br>💼 Currently freelancing and building custom web solutions<br>👨‍🏫 Former university lecturer in Computer Science, passionate about sharing knowledge<br>🌍 Based in Germany, originally from Tunisia<br><br>Currently Learning:<br><br>🇩🇪 Improving my German language skills<br>📚 Exploring cutting-edge React features and full-stack patterns<br><br>💡 I'm always seeking innovative solutions and challenging projects. Let's connect and build something great together!</p>
+<p align="left"><h3>What I Do:</h3><br><br>🎨 Craft responsive, user-centric interfaces with React, TypeScript, and modern CSS<br>⚙️ Build robust RESTful APIs with Node.js/Express and Spring Boot<br>🗄️ Design efficient database solutions (PostgreSQL, MongoDB, MySQL)<br>🧪 Implement thorough testing strategies (Jest, Vitest, JUnit)<br>🚀 Deploy and orchestrate applications with Docker and Kubernetes<br><br><h3>Background:</h3><br><br>💼 Currently freelancing and building custom web solutions<br>👨‍🏫 Former university lecturer in Computer Science, passionate about sharing knowledge<br>🌍 Based in Germany, originally from Tunisia<br><br><h3>Currently Learning:</h3><br><br>🇩🇪 Improving my German language skills<br>📚 Exploring cutting-edge React features and full-stack patterns<br><br>💡 I'm always seeking innovative solutions and challenging projects. Let's connect and build something great together!</p>
 
 ###
 
